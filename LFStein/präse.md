@@ -7,28 +7,20 @@ paginate: true
 
 # Parallelschaltung und Reihenschaltung
 ## Grundlagen der Elektrizität
-### Präsentiert von Hanke Jakob & Lehmann Janneck
+### Präsentiert von Hanke Jacob & Lehmann Janneck
 
 ---
 
 # Inhaltsverzeichnis
-1. Einführung
-2. Parallelschaltung
-   - Definition
-   - Charakteristische Eigenschaften
-   - Anwendungsbeispiele
-3. Reihenschaltung
-   - Definition
-   - Charakteristische Eigenschaften
-   - Anwendungsbeispiele
-4. Vergleich: Parallelschaltung vs. Reihenschaltung
-5. Zusammenfassung
-
----
-
-# Einführung
-- Grundkonzepte der Schaltungen
-- Bedeutung der Schaltungen in der Alltagstechnik
+1. Parallelschaltung
+    - Definition
+    - Charakteristische Eigenschaften
+    - Anwendungsbeispiele
+2. Reihenschaltung
+    - Definition
+    - Charakteristische Eigenschaften
+    - Anwendungsbeispiele
+3. Vergleich: Parallelschaltung vs. Reihenschaltung
 
 ---
 
@@ -79,15 +71,9 @@ paginate: true
 
 ---
 
-# Zusammenfassung
-- Wiederholung der Schlüsseleigenschaften
-- Bedeutung im praktischen Einsatz
-
----
-
 # Dankeschön!
 ## Fragen?
-### [Ihr Name] & [Name des Co-Präsentators]
+### Hanke Jacob & Lehmann Janneck
 
 ---
 

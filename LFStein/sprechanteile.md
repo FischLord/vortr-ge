@@ -1,7 +1,3 @@
-# Einführung (Person A)
-- Heute werden wir uns mit den Grundlagen der Parallelschaltung und Reihenschaltung beschäftigen.
-- Diese sind entscheidend, um zu verstehen, wie Schaltungen in Alltagsgeräten funktionieren.
-
 # Parallelschaltung (Person A)
 - Definition:
     - "In einer Parallelschaltung sind alle Komponenten parallel zueinander angeordnet."
@@ -27,10 +23,6 @@
 # Vergleich: Parallelschaltung vs. Reihenschaltung (Person B)
 - "Im Vergleich zur Parallelschaltung behält in einer Reihenschaltung jede Komponente denselben Strom."
 - "Während in der Parallelschaltung jede Komponente dieselbe Spannung erfährt."
-
-# Zusammenfassung (Person A)
-- "Zusammenfassend haben wir gesehen, dass Parallelschaltungen und Reihenschaltungen ihre spezifischen Eigenschaften und Anwendungen haben."
-- "Die Kenntnisse dieser Schaltungsarten sind grundlegend für das Verständnis elektrischer Systeme und deren praktischen Einsatz."
 
 # Dankeschön und Fragen (Person B)
 - "Vielen Dank für Ihre Aufmerksamkeit. Haben Sie Fragen zu unserer heutigen Präsentation?"
