@@ -30,17 +30,16 @@ paginate: true
 - **Why is Monitoring Important?**
   - Ensuring system availability
   - Enhancing performance and security
-![Parallel Circuit](monitoring.jpg)
 
 ---
 
 # Types of Monitoring
 - **Network Monitoring**
-  - Monitoring traffic and device status ![Network Monitoring](NetworkMonitoring.png)
+  - Monitoring traffic and device status
 - **Performance Monitoring**
-  - Monitoring system performance and resource usage ![Performance Monitoring](PerformanceMonitoring.png)
+  - Monitoring system performance and resource usage
 - **Security Monitoring**
-  - Detecting security threats and anomalies ![Securtiy Monitoring](SecurityMonitoring.jpg)
+  - Detecting security threats and anomalies
 
 ---
 
@@ -51,7 +50,7 @@ paginate: true
 - **Datadog**: Cloud-based monitoring across services.
 - **Prometheus**: Alerting toolkit for monitoring needs.
 - **Splunk**: Big data analysis and visualization.
-![Tools](tools.jpg)
+
 ---
 
 # Basic Features
@@ -77,7 +76,6 @@ paginate: true
 - **Database Performance**: Optimize query execution times.
 - **Website Availability**: Manage and resolve downtime issues.
 - **Security Logs**: Detect and respond to unauthorized access.
-![World](World.png)
 
 ---
 
@@ -91,15 +89,21 @@ paginate: true
 
 - **Enhanced Efficiency**: AI automates complex processes, reducing the time to detect and resolve issues.
 - **Increased Accuracy**: AI algorithms can analyze vast amounts of data with high precision, improving the reliability of monitoring systems.
-![future](future.jpg)
+
 ---
 
 # Conclusion and Questions
+
 - **Summary of Key Points**
-  - Brief review of the topics discussed
-- **Open Question and Answer Session**
-  - Inviting the audience to ask questions
-![conclusion](conclusion.png)
+  - Importance of IT monitoring
+  - Types: Network, Performance, Security
+  - Tools: Nagios, Zabbix, Datadog, Prometheus, Splunk
+  - Key Features: Real-time, Alerts, Visualization, Logs, Metrics
+  - Real-world Use Cases
+  - Future: AI-based Monitoring
+
+- **Open Q&A Session**
+  - Your questions
 ---
 
 ### **Thank you for your attention!**
